@@ -5,7 +5,7 @@
 */
 
 const portfolio = {
-  name: "Your Name",
+  name: "Anant ",
   role: "Developer & Creative Thinker",
   location: "Your City, Country",
   email: "your.email@example.com",
