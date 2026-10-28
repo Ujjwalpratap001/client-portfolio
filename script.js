@@ -9,6 +9,7 @@ const portfolio = {
   role: "Developer & Creative Thinker",
   location: "Your City, Country",
   email: "your.email@example.com",
+   image: "./assets/profile.png",
 
   links: {
     github: "https://github.com/yourusername",
